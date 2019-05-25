@@ -1,3 +1,4 @@
 data/abnormal_test.txt filter=lfs diff=lfs merge=lfs -text
 data/normal_test.txt filter=lfs diff=lfs merge=lfs -text
 data/normal_train.txt filter=lfs diff=lfs merge=lfs -text
+trained_models/model.pth filter=lfs diff=lfs merge=lfs -text
